@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "files",
+		"liveServer.settings.port": 5501
+	}
+}
